@@ -1,0 +1,12 @@
+name: vwm-decoding 
+channels: 
+  - conda-forge 
+dependencies:
+  - python=3.9 
+  - numpy 
+  - scipy 
+  - pandas 
+  - matplotlib 
+  - scikit-learn 
+  - mne 
+  - pip

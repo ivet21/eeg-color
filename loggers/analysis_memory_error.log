@@ -1,0 +1,98 @@
+03:15:08 INFO: Ensured directory: plots/memory_error
+03:15:08 INFO: ERP Sliding R2 ROI=Occipital Region:
+03:18:26 INFO: ERP SLIDING R2/Occipital Region with mean=-0.050
+03:18:26 INFO: Ensured directory: plots/memory_error/erp_sliding_r2
+03:18:26 INFO: ERP Sliding R2 ROI=Parietal Region:
+03:21:42 INFO: ERP SLIDING R2/Parietal Region with mean=-0.055
+03:21:42 INFO: Ensured directory: plots/memory_error/erp_sliding_r2
+03:21:42 INFO: ERP Sliding R2 ROI=Central Region:
+03:24:56 INFO: ERP SLIDING R2/Central Region with mean=-0.058
+03:24:56 INFO: Ensured directory: plots/memory_error/erp_sliding_r2
+03:24:56 INFO: ERP Sliding R2 ROI=Frontal Region:
+03:28:12 INFO: ERP SLIDING R2/Frontal Region with mean=-0.056
+03:28:12 INFO: Ensured directory: plots/memory_error/erp_sliding_r2
+03:28:12 INFO: TF Sliding R2 ROI=Occipital Region, band=theta:
+03:36:00 INFO: TF SLIDING R2/Occipital Region theta with mean=-0.092
+03:36:00 INFO: Ensured directory: plots/memory_error/tf_sliding_r2
+03:36:00 INFO: TF Sliding R2 ROI=Occipital Region, band=alpha:
+03:43:55 INFO: TF SLIDING R2/Occipital Region alpha with mean=-0.123
+03:43:55 INFO: Ensured directory: plots/memory_error/tf_sliding_r2
+03:43:55 INFO: TF Sliding R2 ROI=Occipital Region, band=beta:
+03:51:52 INFO: TF SLIDING R2/Occipital Region beta with mean=-0.083
+03:51:52 INFO: Ensured directory: plots/memory_error/tf_sliding_r2
+03:51:52 INFO: TF Sliding R2 ROI=Parietal Region, band=theta:
+03:59:46 INFO: TF SLIDING R2/Parietal Region theta with mean=-0.113
+03:59:46 INFO: Ensured directory: plots/memory_error/tf_sliding_r2
+03:59:46 INFO: TF Sliding R2 ROI=Parietal Region, band=alpha:
+04:07:32 INFO: TF SLIDING R2/Parietal Region alpha with mean=-0.118
+04:07:32 INFO: Ensured directory: plots/memory_error/tf_sliding_r2
+04:07:32 INFO: TF Sliding R2 ROI=Parietal Region, band=beta:
+04:15:14 INFO: TF SLIDING R2/Parietal Region beta with mean=-0.106
+04:15:14 INFO: Ensured directory: plots/memory_error/tf_sliding_r2
+04:15:14 INFO: TF Sliding R2 ROI=Central Region, band=theta:
+04:22:53 INFO: TF SLIDING R2/Central Region theta with mean=-0.122
+04:22:53 INFO: Ensured directory: plots/memory_error/tf_sliding_r2
+04:22:53 INFO: TF Sliding R2 ROI=Central Region, band=alpha:
+04:30:35 INFO: TF SLIDING R2/Central Region alpha with mean=-0.178
+04:30:35 INFO: Ensured directory: plots/memory_error/tf_sliding_r2
+04:30:35 INFO: TF Sliding R2 ROI=Central Region, band=beta:
+04:38:23 INFO: TF SLIDING R2/Central Region beta with mean=-0.096
+04:38:23 INFO: Ensured directory: plots/memory_error/tf_sliding_r2
+04:38:23 INFO: TF Sliding R2 ROI=Frontal Region, band=theta:
+04:46:00 INFO: TF SLIDING R2/Frontal Region theta with mean=-0.114
+04:46:00 INFO: Ensured directory: plots/memory_error/tf_sliding_r2
+04:46:00 INFO: TF Sliding R2 ROI=Frontal Region, band=alpha:
+04:53:44 INFO: TF SLIDING R2/Frontal Region alpha with mean=-0.110
+04:53:44 INFO: Ensured directory: plots/memory_error/tf_sliding_r2
+04:53:44 INFO: TF Sliding R2 ROI=Frontal Region, band=beta:
+05:01:36 INFO: TF SLIDING R2/Frontal Region beta with mean=-0.102
+05:01:36 INFO: Ensured directory: plots/memory_error/tf_sliding_r2
+05:01:36 INFO: CSP Static R2 ROI=Occipital Region:
+05:04:12 INFO: CSP Static R2/Occipital Region folds=5 mean_R2=-0.022
+05:04:12 INFO: Ensured directory: plots/memory_error/csp_static_r2
+05:04:12 INFO: CSP Static R2 ROI=Parietal Region:
+05:06:49 INFO: CSP Static R2/Parietal Region folds=5 mean_R2=-0.020
+05:06:49 INFO: Ensured directory: plots/memory_error/csp_static_r2
+05:06:49 INFO: CSP Static R2 ROI=Central Region:
+05:09:27 INFO: CSP Static R2/Central Region folds=5 mean_R2=-0.015
+05:09:27 INFO: Ensured directory: plots/memory_error/csp_static_r2
+05:09:27 INFO: CSP Static R2 ROI=Frontal Region:
+05:12:04 INFO: CSP Static R2/Frontal Region folds=5 mean_R2=-0.015
+05:12:04 INFO: Ensured directory: plots/memory_error/csp_static_r2
+05:12:04 INFO: SPoC Static R2 ROI=Occipital Region, band=theta:
+05:20:43 INFO: SPoC Static R2/Occipital Region theta folds=5 mean_R2=-0.123
+05:20:43 INFO: Ensured directory: plots/memory_error/spoc_static_r2
+05:20:43 INFO: SPoC Static R2 ROI=Occipital Region, band=alpha:
+05:29:31 INFO: SPoC Static R2/Occipital Region alpha folds=5 mean_R2=-0.126
+05:29:31 INFO: Ensured directory: plots/memory_error/spoc_static_r2
+05:29:32 INFO: SPoC Static R2 ROI=Occipital Region, band=beta:
+05:38:19 INFO: SPoC Static R2/Occipital Region beta folds=5 mean_R2=-0.110
+05:38:19 INFO: Ensured directory: plots/memory_error/spoc_static_r2
+05:38:19 INFO: SPoC Static R2 ROI=Parietal Region, band=theta:
+05:47:00 INFO: SPoC Static R2/Parietal Region theta folds=5 mean_R2=-0.114
+05:47:00 INFO: Ensured directory: plots/memory_error/spoc_static_r2
+05:47:01 INFO: SPoC Static R2 ROI=Parietal Region, band=alpha:
+05:55:39 INFO: SPoC Static R2/Parietal Region alpha folds=5 mean_R2=-0.119
+05:55:39 INFO: Ensured directory: plots/memory_error/spoc_static_r2
+05:55:39 INFO: SPoC Static R2 ROI=Parietal Region, band=beta:
+06:04:23 INFO: SPoC Static R2/Parietal Region beta folds=5 mean_R2=-0.119
+06:04:23 INFO: Ensured directory: plots/memory_error/spoc_static_r2
+06:04:23 INFO: SPoC Static R2 ROI=Central Region, band=theta:
+06:13:09 INFO: SPoC Static R2/Central Region theta folds=5 mean_R2=-0.127
+06:13:09 INFO: Ensured directory: plots/memory_error/spoc_static_r2
+06:13:09 INFO: SPoC Static R2 ROI=Central Region, band=alpha:
+06:21:55 INFO: SPoC Static R2/Central Region alpha folds=5 mean_R2=-0.128
+06:21:55 INFO: Ensured directory: plots/memory_error/spoc_static_r2
+06:21:55 INFO: SPoC Static R2 ROI=Central Region, band=beta:
+06:51:10 INFO: SPoC Static R2/Central Region beta folds=5 mean_R2=-0.108
+06:51:10 INFO: Ensured directory: plots/memory_error/spoc_static_r2
+06:51:10 INFO: SPoC Static R2 ROI=Frontal Region, band=theta:
+07:00:54 INFO: SPoC Static R2/Frontal Region theta folds=5 mean_R2=-0.124
+07:00:54 INFO: Ensured directory: plots/memory_error/spoc_static_r2
+07:00:54 INFO: SPoC Static R2 ROI=Frontal Region, band=alpha:
+07:10:40 INFO: SPoC Static R2/Frontal Region alpha folds=5 mean_R2=-0.120
+07:10:40 INFO: Ensured directory: plots/memory_error/spoc_static_r2
+07:10:40 INFO: SPoC Static R2 ROI=Frontal Region, band=beta:
+07:20:04 INFO: SPoC Static R2/Frontal Region beta folds=5 mean_R2=-0.101
+07:20:04 INFO: Ensured directory: plots/memory_error/spoc_static_r2
+07:20:05 INFO: Done with this script

@@ -1,0 +1,228 @@
+15:51:44 INFO: Ensured directory: plots/bias_analysis
+15:51:44 INFO: Processing subject 10
+15:51:54 INFO: Subject 10,cond=dark, window=encoding with mean=-54.13295251581124 and bias=1.519
+15:51:54 INFO: Subject 10,cond=dark, window=maintenance with mean=-54.142792534434186 and bias=1.509
+15:51:54 INFO: Subject 10,cond=dark, window=before_retrieval with mean=-53.38736134158888 and bias=2.265
+15:51:54 INFO: Subject 10,cond=light, window=encoding with mean=-53.74940042536522 and bias=-1.519
+15:51:54 INFO: Subject 10,cond=light, window=maintenance with mean=-53.73956040674229 and bias=-1.509
+15:51:54 INFO: Subject 10,cond=light, window=before_retrieval with mean=-54.494991599587586 and bias=-2.265
+15:51:54 INFO: Processing subject 11
+15:52:05 INFO: Subject 11,cond=dark, window=encoding with mean=-55.346039686033485 and bias=-2.530
+15:52:05 INFO: Subject 11,cond=dark, window=maintenance with mean=-55.35903030529206 and bias=-2.543
+15:52:05 INFO: Subject 11,cond=dark, window=before_retrieval with mean=-54.79140812225527 and bias=-1.975
+15:52:05 INFO: Subject 11,cond=light, window=encoding with mean=-54.45297992180963 and bias=2.530
+15:52:05 INFO: Subject 11,cond=light, window=maintenance with mean=-54.439989302551055 and bias=2.543
+15:52:05 INFO: Subject 11,cond=light, window=before_retrieval with mean=-55.00761148558784 and bias=1.975
+15:52:05 INFO: Processing subject 12
+15:52:15 INFO: Subject 12,cond=dark, window=encoding with mean=-50.75850604114279 and bias=-1.184
+15:52:15 INFO: Subject 12,cond=dark, window=maintenance with mean=-50.85225987068426 and bias=-1.278
+15:52:15 INFO: Subject 12,cond=dark, window=before_retrieval with mean=-51.00442087628031 and bias=-1.430
+15:52:15 INFO: Subject 12,cond=light, window=encoding with mean=-50.068087096112095 and bias=1.184
+15:52:15 INFO: Subject 12,cond=light, window=maintenance with mean=-49.974333266570625 and bias=1.278
+15:52:15 INFO: Subject 12,cond=light, window=before_retrieval with mean=-49.82217226097456 and bias=1.430
+15:52:15 INFO: Processing subject 16
+15:52:26 INFO: Subject 16,cond=dark, window=encoding with mean=-52.68908445238423 and bias=-0.036
+15:52:26 INFO: Subject 16,cond=dark, window=maintenance with mean=-52.76245490289464 and bias=-0.109
+15:52:26 INFO: Subject 16,cond=dark, window=before_retrieval with mean=-52.274896018358525 and bias=0.378
+15:52:26 INFO: Subject 16,cond=light, window=encoding with mean=-52.51495966526283 and bias=0.036
+15:52:26 INFO: Subject 16,cond=light, window=maintenance with mean=-52.44158921475242 and bias=0.109
+15:52:26 INFO: Subject 16,cond=light, window=before_retrieval with mean=-52.92914809928854 and bias=-0.378
+15:52:26 INFO: Processing subject 18
+15:52:36 INFO: Subject 18,cond=dark, window=encoding with mean=-52.61724103788782 and bias=0.954
+15:52:36 INFO: Subject 18,cond=dark, window=maintenance with mean=-53.22157040390593 and bias=0.350
+15:52:36 INFO: Subject 18,cond=dark, window=before_retrieval with mean=-53.08314064620429 and bias=0.488
+15:52:36 INFO: Subject 18,cond=light, window=encoding with mean=-53.657268766033745 and bias=-0.954
+15:52:36 INFO: Subject 18,cond=light, window=maintenance with mean=-53.052939400015624 and bias=-0.350
+15:52:36 INFO: Subject 18,cond=light, window=before_retrieval with mean=-53.19136915771727 and bias=-0.488
+15:52:36 INFO: Processing subject 19
+15:52:46 INFO: Subject 19,cond=dark, window=encoding with mean=-53.56347116102597 and bias=-0.200
+15:52:46 INFO: Subject 19,cond=dark, window=maintenance with mean=-53.35319571759354 and bias=0.011
+15:52:46 INFO: Subject 19,cond=dark, window=before_retrieval with mean=-53.71816430839029 and bias=-0.354
+15:52:46 INFO: Subject 19,cond=light, window=encoding with mean=-53.089102368385795 and bias=0.200
+15:52:46 INFO: Subject 19,cond=light, window=maintenance with mean=-53.299377811818225 and bias=-0.011
+15:52:46 INFO: Subject 19,cond=light, window=before_retrieval with mean=-52.934409221021475 and bias=0.354
+15:52:46 INFO: Processing subject 2
+15:52:56 INFO: Subject 2,cond=dark, window=encoding with mean=-50.29390927565212 and bias=0.224
+15:52:56 INFO: Subject 2,cond=dark, window=maintenance with mean=-50.11957981223588 and bias=0.398
+15:52:56 INFO: Subject 2,cond=dark, window=before_retrieval with mean=-50.30394950533599 and bias=0.214
+15:52:56 INFO: Subject 2,cond=light, window=encoding with mean=-50.5737377831714 and bias=-0.224
+15:52:56 INFO: Subject 2,cond=light, window=maintenance with mean=-50.74806724658765 and bias=-0.398
+15:52:56 INFO: Subject 2,cond=light, window=before_retrieval with mean=-50.56369755348752 and bias=-0.214
+15:52:56 INFO: Processing subject 20
+15:53:06 INFO: Subject 20,cond=dark, window=encoding with mean=-52.87018862504092 and bias=-0.323
+15:53:06 INFO: Subject 20,cond=dark, window=maintenance with mean=-52.3316013146819 and bias=0.216
+15:53:06 INFO: Subject 20,cond=dark, window=before_retrieval with mean=-52.07173722586046 and bias=0.475
+15:53:06 INFO: Subject 20,cond=light, window=encoding with mean=-51.32221333574339 and bias=0.323
+15:53:06 INFO: Subject 20,cond=light, window=maintenance with mean=-51.860800646102426 and bias=-0.216
+15:53:06 INFO: Subject 20,cond=light, window=before_retrieval with mean=-52.12066473492384 and bias=-0.475
+15:53:06 INFO: Processing subject 21
+15:53:16 INFO: Subject 21,cond=dark, window=encoding with mean=-53.5980557517921 and bias=3.207
+15:53:16 INFO: Subject 21,cond=dark, window=maintenance with mean=-53.09294935041538 and bias=3.713
+15:53:16 INFO: Subject 21,cond=dark, window=before_retrieval with mean=-53.8871474499361 and bias=2.918
+15:53:16 INFO: Subject 21,cond=light, window=encoding with mean=-51.577945603305245 and bias=-3.415
+15:53:16 INFO: Subject 21,cond=light, window=maintenance with mean=-52.1156852834226 and bias=-3.952
+15:53:16 INFO: Subject 21,cond=light, window=before_retrieval with mean=-51.270176632528354 and bias=-3.107
+15:53:16 INFO: Processing subject 22
+15:53:25 INFO: Subject 22,cond=dark, window=encoding with mean=-51.00718490327523 and bias=0.663
+15:53:25 INFO: Subject 22,cond=dark, window=maintenance with mean=-50.857951098046584 and bias=0.812
+15:53:25 INFO: Subject 22,cond=dark, window=before_retrieval with mean=-50.41814450458222 and bias=1.252
+15:53:25 INFO: Subject 22,cond=light, window=encoding with mean=-50.67234941045024 and bias=-0.663
+15:53:25 INFO: Subject 22,cond=light, window=maintenance with mean=-50.821583215678885 and bias=-0.812
+15:53:25 INFO: Subject 22,cond=light, window=before_retrieval with mean=-51.261389809143246 and bias=-1.252
+15:53:25 INFO: Processing subject 23
+15:53:36 INFO: Subject 23,cond=dark, window=encoding with mean=-51.50944500975265 and bias=2.639
+15:53:36 INFO: Subject 23,cond=dark, window=maintenance with mean=-51.38529073729456 and bias=2.764
+15:53:36 INFO: Subject 23,cond=dark, window=before_retrieval with mean=-51.40728662727179 and bias=2.742
+15:53:36 INFO: Subject 23,cond=light, window=encoding with mean=-50.562858911815965 and bias=-2.639
+15:53:36 INFO: Subject 23,cond=light, window=maintenance with mean=-50.68701318427406 and bias=-2.764
+15:53:36 INFO: Subject 23,cond=light, window=before_retrieval with mean=-50.66501729429683 and bias=-2.742
+15:53:36 INFO: Processing subject 24
+15:53:45 INFO: Subject 24,cond=dark, window=encoding with mean=-51.60118618284506 and bias=1.037
+15:53:45 INFO: Subject 24,cond=dark, window=maintenance with mean=-51.141935022982096 and bias=1.496
+15:53:45 INFO: Subject 24,cond=dark, window=before_retrieval with mean=-51.29395099329802 and bias=1.344
+15:53:45 INFO: Subject 24,cond=light, window=encoding with mean=-50.258529314579974 and bias=-1.057
+15:53:45 INFO: Subject 24,cond=light, window=maintenance with mean=-50.72671035810694 and bias=-1.525
+15:53:45 INFO: Subject 24,cond=light, window=before_retrieval with mean=-50.57173852170155 and bias=-1.370
+15:53:45 INFO: Processing subject 25
+15:53:55 INFO: Subject 25,cond=dark, window=encoding with mean=-52.819139403105055 and bias=2.150
+15:53:55 INFO: Subject 25,cond=dark, window=maintenance with mean=-52.34583049757839 and bias=2.623
+15:53:55 INFO: Subject 25,cond=dark, window=before_retrieval with mean=-52.04509666092465 and bias=2.924
+15:53:55 INFO: Subject 25,cond=light, window=encoding with mean=-51.61652236160081 and bias=-2.150
+15:53:55 INFO: Subject 25,cond=light, window=maintenance with mean=-52.089831267127494 and bias=-2.623
+15:53:55 INFO: Subject 25,cond=light, window=before_retrieval with mean=-52.39056510378122 and bias=-2.924
+15:53:55 INFO: Processing subject 26
+15:54:05 INFO: Subject 26,cond=dark, window=encoding with mean=-55.021731010422705 and bias=-1.860
+15:54:05 INFO: Subject 26,cond=dark, window=maintenance with mean=-54.071441812833456 and bias=-0.910
+15:54:05 INFO: Subject 26,cond=dark, window=before_retrieval with mean=-53.770722409382536 and bias=-0.609
+15:54:05 INFO: Subject 26,cond=light, window=encoding with mean=-52.68476408761645 and bias=1.860
+15:54:05 INFO: Subject 26,cond=light, window=maintenance with mean=-53.635053285205714 and bias=0.910
+15:54:05 INFO: Subject 26,cond=light, window=before_retrieval with mean=-53.935772688656634 and bias=0.609
+15:54:05 INFO: Processing subject 27
+15:54:15 INFO: Subject 27,cond=dark, window=encoding with mean=-54.96126545521937 and bias=3.127
+15:54:15 INFO: Subject 27,cond=dark, window=maintenance with mean=-54.27142282613738 and bias=3.817
+15:54:15 INFO: Subject 27,cond=dark, window=before_retrieval with mean=-54.486275197400374 and bias=3.602
+15:54:15 INFO: Subject 27,cond=light, window=encoding with mean=-52.25932278007474 and bias=-3.127
+15:54:15 INFO: Subject 27,cond=light, window=maintenance with mean=-52.94916540915673 and bias=-3.817
+15:54:15 INFO: Subject 27,cond=light, window=before_retrieval with mean=-52.734313037893735 and bias=-3.602
+15:54:15 INFO: Processing subject 3
+15:54:25 INFO: Subject 3,cond=dark, window=encoding with mean=-53.00595787762118 and bias=0.922
+15:54:25 INFO: Subject 3,cond=dark, window=maintenance with mean=-53.42261303180672 and bias=0.505
+15:54:25 INFO: Subject 3,cond=dark, window=before_retrieval with mean=-52.958856225205444 and bias=0.969
+15:54:25 INFO: Subject 3,cond=light, window=encoding with mean=-52.83411565179057 and bias=-0.922
+15:54:25 INFO: Subject 3,cond=light, window=maintenance with mean=-52.41746049760503 and bias=-0.505
+15:54:25 INFO: Subject 3,cond=light, window=before_retrieval with mean=-52.8812173042063 and bias=-0.969
+15:54:25 INFO: Processing subject 4
+15:54:35 INFO: Subject 4,cond=dark, window=encoding with mean=-52.62310703235613 and bias=1.232
+15:54:35 INFO: Subject 4,cond=dark, window=maintenance with mean=-52.50024483213285 and bias=1.354
+15:54:35 INFO: Subject 4,cond=dark, window=before_retrieval with mean=-52.39379605471815 and bias=1.461
+15:54:35 INFO: Subject 4,cond=light, window=encoding with mean=-51.558106830657074 and bias=-1.216
+15:54:35 INFO: Subject 4,cond=light, window=maintenance with mean=-51.67936926264829 and bias=-1.337
+15:54:35 INFO: Subject 4,cond=light, window=before_retrieval with mean=-51.78443198827372 and bias=-1.442
+15:54:35 INFO: Processing subject 5
+15:54:45 INFO: Subject 5,cond=dark, window=encoding with mean=-49.970340401668444 and bias=-1.119
+15:54:45 INFO: Subject 5,cond=dark, window=maintenance with mean=-48.625982731484555 and bias=0.225
+15:54:45 INFO: Subject 5,cond=dark, window=before_retrieval with mean=-48.66466604268269 and bias=0.186
+15:54:45 INFO: Subject 5,cond=light, window=encoding with mean=-47.60441450029233 and bias=1.119
+15:54:45 INFO: Subject 5,cond=light, window=maintenance with mean=-48.94877217047622 and bias=-0.225
+15:54:45 INFO: Subject 5,cond=light, window=before_retrieval with mean=-48.91008885927808 and bias=-0.186
+15:54:45 INFO: Processing subject 6
+15:54:55 INFO: Subject 6,cond=dark, window=encoding with mean=-50.55303670426725 and bias=0.259
+15:54:55 INFO: Subject 6,cond=dark, window=maintenance with mean=-50.34541382067918 and bias=0.467
+15:54:55 INFO: Subject 6,cond=dark, window=before_retrieval with mean=-49.50450618010806 and bias=1.308
+15:54:55 INFO: Subject 6,cond=light, window=encoding with mean=-49.35321329573273 and bias=-0.259
+15:54:55 INFO: Subject 6,cond=light, window=maintenance with mean=-49.5608361793208 and bias=-0.467
+15:54:55 INFO: Subject 6,cond=light, window=before_retrieval with mean=-50.40174381989192 and bias=-1.308
+15:54:55 INFO: Processing subject 7
+15:55:05 INFO: Subject 7,cond=dark, window=encoding with mean=-48.36741154116476 and bias=-2.071
+15:55:05 INFO: Subject 7,cond=dark, window=maintenance with mean=-49.08087357520884 and bias=-2.785
+15:55:05 INFO: Subject 7,cond=dark, window=before_retrieval with mean=-49.03336209479348 and bias=-2.737
+15:55:05 INFO: Subject 7,cond=light, window=encoding with mean=-50.11236787059992 and bias=2.071
+15:55:05 INFO: Subject 7,cond=light, window=maintenance with mean=-49.39890583655585 and bias=2.785
+15:55:05 INFO: Subject 7,cond=light, window=before_retrieval with mean=-49.44641731697121 and bias=2.737
+15:55:05 INFO: encoding: dark=0.430, light=-0.441, t=-1.17, p=0.256
+15:55:05 INFO: maintenance: dark=0.632, light=-0.644, t=-1.60, p=0.125
+15:55:05 INFO: before_retrieval: dark=0.771, light=-0.781, t=-2.06, p=0.054
+15:55:05 INFO: Processing subject 10
+15:55:15 INFO: Subject 10, window=encoding with mean=-53.94117647058823
+15:55:15 INFO: Subject 10, window=maintenance with mean=-53.94117647058823
+15:55:15 INFO: Subject 10, window=before_retrieval with mean=-53.94117647058823
+15:55:15 INFO: Processing subject 11
+15:55:25 INFO: Subject 11, window=encoding with mean=-54.899509803921546
+15:55:25 INFO: Subject 11, window=maintenance with mean=-54.89950980392155
+15:55:25 INFO: Subject 11, window=before_retrieval with mean=-54.899509803921546
+15:55:25 INFO: Processing subject 12
+15:55:35 INFO: Subject 12, window=encoding with mean=-50.41329656862744
+15:55:35 INFO: Subject 12, window=maintenance with mean=-50.41329656862744
+15:55:35 INFO: Subject 12, window=before_retrieval with mean=-50.41329656862744
+15:55:35 INFO: Processing subject 16
+15:55:45 INFO: Subject 16, window=encoding with mean=-52.602022058823536
+15:55:45 INFO: Subject 16, window=maintenance with mean=-52.602022058823536
+15:55:45 INFO: Subject 16, window=before_retrieval with mean=-52.60202205882353
+15:55:45 INFO: Processing subject 18
+15:55:55 INFO: Subject 18, window=encoding with mean=-53.13725490196078
+15:55:55 INFO: Subject 18, window=maintenance with mean=-53.13725490196077
+15:55:55 INFO: Subject 18, window=before_retrieval with mean=-53.13725490196078
+15:55:55 INFO: Processing subject 19
+15:56:05 INFO: Subject 19, window=encoding with mean=-53.32628676470589
+15:56:05 INFO: Subject 19, window=maintenance with mean=-53.326286764705884
+15:56:05 INFO: Subject 19, window=before_retrieval with mean=-53.326286764705884
+15:56:05 INFO: Processing subject 2
+15:56:15 INFO: Subject 2, window=encoding with mean=-50.43382352941176
+15:56:15 INFO: Subject 2, window=maintenance with mean=-50.43382352941176
+15:56:15 INFO: Subject 2, window=before_retrieval with mean=-50.43382352941177
+15:56:15 INFO: Processing subject 20
+15:56:25 INFO: Subject 20, window=encoding with mean=-52.096200980392155
+15:56:25 INFO: Subject 20, window=maintenance with mean=-52.096200980392155
+15:56:25 INFO: Subject 20, window=before_retrieval with mean=-52.096200980392155
+15:56:25 INFO: Processing subject 21
+15:56:35 INFO: Subject 21, window=encoding with mean=-52.619607843137246
+15:56:35 INFO: Subject 21, window=maintenance with mean=-52.61960784313725
+15:56:35 INFO: Subject 21, window=before_retrieval with mean=-52.619607843137246
+15:56:35 INFO: Processing subject 22
+15:56:45 INFO: Subject 22, window=encoding with mean=-50.83976715686273
+15:56:45 INFO: Subject 22, window=maintenance with mean=-50.839767156862735
+15:56:45 INFO: Subject 22, window=before_retrieval with mean=-50.839767156862735
+15:56:45 INFO: Processing subject 23
+15:56:55 INFO: Subject 23, window=encoding with mean=-51.03615196078431
+15:56:55 INFO: Subject 23, window=maintenance with mean=-51.03615196078431
+15:56:55 INFO: Subject 23, window=before_retrieval with mean=-51.03615196078431
+15:56:55 INFO: Processing subject 24
+15:57:05 INFO: Subject 24, window=encoding with mean=-50.93632170887611
+15:57:05 INFO: Subject 24, window=maintenance with mean=-50.936321708876115
+15:57:05 INFO: Subject 24, window=before_retrieval with mean=-50.936321708876115
+15:57:05 INFO: Processing subject 25
+15:57:15 INFO: Subject 25, window=encoding with mean=-52.217830882352935
+15:57:15 INFO: Subject 25, window=maintenance with mean=-52.21783088235293
+15:57:15 INFO: Subject 25, window=before_retrieval with mean=-52.21783088235293
+15:57:15 INFO: Processing subject 26
+15:57:25 INFO: Subject 26, window=encoding with mean=-53.853247549019585
+15:57:25 INFO: Subject 26, window=maintenance with mean=-53.853247549019585
+15:57:25 INFO: Subject 26, window=before_retrieval with mean=-53.853247549019585
+15:57:25 INFO: Processing subject 27
+15:57:35 INFO: Subject 27, window=encoding with mean=-53.61029411764705
+15:57:35 INFO: Subject 27, window=maintenance with mean=-53.610294117647044
+15:57:35 INFO: Subject 27, window=before_retrieval with mean=-53.61029411764705
+15:57:35 INFO: Processing subject 3
+15:57:45 INFO: Subject 3, window=encoding with mean=-52.92003676470588
+15:57:45 INFO: Subject 3, window=maintenance with mean=-52.92003676470588
+15:57:45 INFO: Subject 3, window=before_retrieval with mean=-52.92003676470588
+15:57:45 INFO: Processing subject 4
+15:57:55 INFO: Subject 4, window=encoding with mean=-52.08711741577364
+15:57:55 INFO: Subject 4, window=maintenance with mean=-52.08711741577364
+15:57:55 INFO: Subject 4, window=before_retrieval with mean=-52.08711741577364
+15:57:55 INFO: Processing subject 5
+15:58:05 INFO: Subject 5, window=encoding with mean=-48.78737745098039
+15:58:05 INFO: Subject 5, window=maintenance with mean=-48.78737745098039
+15:58:05 INFO: Subject 5, window=before_retrieval with mean=-48.78737745098039
+15:58:05 INFO: Processing subject 6
+15:58:15 INFO: Subject 6, window=encoding with mean=-49.953125
+15:58:15 INFO: Subject 6, window=maintenance with mean=-49.953125
+15:58:15 INFO: Subject 6, window=before_retrieval with mean=-49.953125
+15:58:15 INFO: Processing subject 7
+15:58:25 INFO: Subject 7, window=encoding with mean=-49.23988970588234
+15:58:25 INFO: Subject 7, window=maintenance with mean=-49.23988970588234
+15:58:25 INFO: Subject 7, window=before_retrieval with mean=-49.23988970588234
+15:58:25 INFO: encoding: t=-0.75, p=0.465
+15:58:25 INFO: maintenance: t=-0.51, p=0.617
+15:58:25 INFO: before_retrieval: t=-0.37, p=0.716
+15:58:25 INFO: Done with this script
